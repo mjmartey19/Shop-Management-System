@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1680772579 source:c:\users\administrator\documents\c++\shop management\main.cpp
+	"shop.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<windows.h>
+	<unistd.h>
+	<ctime>
+	<iomanip>
+	<limits>
+
+1680555682 source:d:\opp project\c++\shop management\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<ctime>
+
+1680174307 source:e:\opp project\c++\shop management\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1680710966 source:d:\opp project\shop management\main.cpp
+	"shop.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<windows.h>
+	<unistd.h>
+	<ctime>
+	<iomanip>
+	<limits>
+
+1680711877 d:\opp project\shop management\shop.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1680776795 c:\users\administrator\documents\c++\shop management\shop.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1680796811 source:c:\users\stephanie modilim\desktop\shop management\main.cpp
+	"shop.h"
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<windows.h>
+	<unistd.h>
+	<ctime>
+	<iomanip>
+	<limits>
+
+1680800685 c:\users\stephanie modilim\desktop\shop management\shop.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+

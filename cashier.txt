@@ -1,0 +1,6 @@
+Jane 1234 111.5
+Jamel scholar 75.5
+John pass 0
+Jamel jam 0
+Ernest ern 20
+Stephanie 234 100
